@@ -4,6 +4,6 @@ Follow the setup instructions [detailed here](https://june-skeeter.github.io/GEO
 
 ## Note
 
-When doing the git clone, use this repository instead of the lab4 repo.  Use the following command for the git cone step:
+When doing the git clone, use this repository instead of the lab4 repo.  Use the following command for the git clone step:
 
 git clone https://github.com/June-Skeeter/Geocoding_Tool.git
